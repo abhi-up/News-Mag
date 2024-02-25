@@ -19,6 +19,9 @@ NewsMag is a news magazine website built using React JS. It leverages API calls 
 - HTML & CSS: Used for structuring and styling the website.
 - JavaScript: Programming language used for implementing interactive features and functionality.
 
+## Preview
+![sample](https://github.com/abhi-up/News-Mag/assets/77201101/38ca8ec5-a5a7-46c8-a25d-ca8d33b2107b)
+
 ## Usage 🚀
 
 1. Clone this repository to your local machine.
